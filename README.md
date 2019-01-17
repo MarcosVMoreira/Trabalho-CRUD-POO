@@ -1,4 +1,4 @@
-# Trabalho de Engenharia de Software
+# Trabalho CRUD - POO
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trabalho feito em **Java** para a disciplina de **Programação Orientada a Objetos** do curso de [Engenharia de Computação](https://pcs.ifsuldeminas.edu.br/index.php?option=com_content&view=article&id=639&Itemid=267) do [IFSULDEMINAS - Campus Poços de Caldas](https://pcs.ifsuldeminas.edu.br/). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo desse projeto foi aplicar na **prática** os conceitos de **POO**. Todo o sistema, por mais simples que seja, foi feito com base nos conceitos de orientação a objetivo, além de estar no modelo *MVC*. Os dados são salvos em arquivo e não em banco de dados, por se tratar apenas de usuário e senha. Tal arquivo é criptografado com algoritmo **RSA**. O *login* e senha cadastrados por *default* no sistema são respectivamente `admin` e `admin`.
